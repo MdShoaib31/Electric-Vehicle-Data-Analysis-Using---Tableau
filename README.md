@@ -42,5 +42,5 @@ The dashboard provides the following key insights and functionalities:
 - The table also distinguishes between Battery Electric Vehicles (BEV) and Plug-in Hybrid Electric Vehicles (PHEV) for each model.
 
 ## Technologies Used
-- **Tableau Desktop**: For data visualization and dashboard creation.
+- **Tableau Public**: For data visualization and dashboard creation.
 - **Microsoft Excel / CSV**: Potentially for initial data cleaning and preparation.
