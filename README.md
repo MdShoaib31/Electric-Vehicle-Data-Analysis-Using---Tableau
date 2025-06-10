@@ -20,9 +20,13 @@ The dashboard provides the following key insights and functionalities:
 - ```Total PHEV Vehicles```: 33,668 (22.4% of total) 
 - ```Vehicle Registration Trends by Model Year```: A line chart illustrating the number of vehicles registered each year, showing a significant increase in recent years, peaking at 37.1K in 2023.
 
-**Geographic Distribution of Vehicles:** A map displaying the total vehicles by state, indicating regional concentrations of EV ownership.
+**Geographic Distribution of Vehicles:**
+- A map displaying the total vehicles by state, indicating regional concentrations of EV ownership.
 
-**Top 10 Vehicles by Make:** A bar chart highlighting the leading manufacturers. Tesla leads significantly with 68.9K vehicles, representing 52.70% of the top 10 makes. Other prominent makes include Chevrolet (12.0K; 9.19%), Ford, BMW (6.4K; 4.92%), and Toyota (5.2K; 3.99%).
+**Top 10 Vehicles by Make:** 
+- A bar chart highlighting the leading manufacturers.
+- Tesla leads significantly with 68.9K vehicles, representing 52.70% of the top 10 makes.
+- Other prominent makes include Chevrolet (12.0K; 9.19%), Ford, BMW (6.4K; 4.92%), and Toyota (5.2K; 3.99%).
 
 **Total Vehicle by CAFV Eligibility:** A donut chart showing the breakdown of vehicles by their CAFV eligibility status:
 
@@ -38,5 +42,5 @@ The dashboard provides the following key insights and functionalities:
 - The table also distinguishes between Battery Electric Vehicles (BEV) and Plug-in Hybrid Electric Vehicles (PHEV) for each model.
 
 ## Technologies Used
-**Tableau Desktop**: For data visualization and dashboard creation.
-**Microsoft Excel / CSV**: Potentially for initial data cleaning and preparation.
+- **Tableau Desktop**: For data visualization and dashboard creation.
+- **Microsoft Excel / CSV**: Potentially for initial data cleaning and preparation.
