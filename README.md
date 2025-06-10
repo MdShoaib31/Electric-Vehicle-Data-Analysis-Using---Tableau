@@ -9,7 +9,10 @@ This project presents an interactive dashboard built with Tableau, providing a c
 ## Data Sources
 The data used for this analysis includes information on electric vehicles, encompassing attributes such as model year, make, type (BEV/PHEV), registration state, and CAFV eligibility.
 
-## Dashboard Features
+## Dashboard Features 
+
+Dashboard - ![Electric Vehicle Data Analysis Dashboard](https://github.com/user-attachments/assets/ef6a020f-4bfc-488d-85df-dba6c3f69a8f)
+
 The dashboard provides the following key insights and functionalities:
 
 **Total Vehicle Overview:**
