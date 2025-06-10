@@ -14,11 +14,11 @@ The dashboard provides the following key insights and functionalities:
 
 **Total Vehicle Overview:**
 
-```Total number of vehicles```: 150,413 
-```Average electric range```: 67.83 Miles 
-```Total Electric Vehicles (EVs)```: 116,745 (77.6% of total) 
-```Total PHEV Vehicles```: 33,668 (22.4% of total) 
-```Vehicle Registration Trends by Model Year```: A line chart illustrating the number of vehicles registered each year, showing a significant increase in recent years, peaking at 37.1K in 2023.
+- ```Total number of vehicles```: 150,413 
+- ```Average electric range```: 67.83 Miles 
+- ```Total Electric Vehicles (EVs)```: 116,745 (77.6% of total) 
+- ```Total PHEV Vehicles```: 33,668 (22.4% of total) 
+- ```Vehicle Registration Trends by Model Year```: A line chart illustrating the number of vehicles registered each year, showing a significant increase in recent years, peaking at 37.1K in 2023.
 
 **Geographic Distribution of Vehicles:** A map displaying the total vehicles by state, indicating regional concentrations of EV ownership.
 
@@ -26,16 +26,17 @@ The dashboard provides the following key insights and functionalities:
 
 **Total Vehicle by CAFV Eligibility:** A donut chart showing the breakdown of vehicles by their CAFV eligibility status:
 
-```CAFV Unknown```: 69,697 (46.34%) 
-```CAFV Eligible```: 62,887 (41.81%) 
-```CAFV Not Eligible```: 17,829 (11.85%) 
-```Total Number of Vehicles by Model```: A detailed table providing a breakdown of vehicles by specific model, make, electric vehicle type (BEV/PHEV), total vehicles, and percentage of total.
+- ```CAFV Unknown```: 69,697 (46.34%) 
+- ```CAFV Eligible```: 62,887 (41.81%) 
+- ```CAFV Not Eligible```: 17,829 (11.85%) 
+- ```Total Number of Vehicles by Model```: A detailed table providing a breakdown of vehicles by specific model, make, electric vehicle type (BEV/PHEV), total vehicles, and percentage of total.
 
-Tesla Model Y is the most popular with 28,501 vehicles (18.95%).
-Tesla Model 3 follows closely with 27,708 vehicles (18.42%).
-Nissan LEAF has 13,187 vehicles (8.77%).
-Other notable models include Tesla Model S (7,609; 5.06%), Chevrolet Bolt EV (5,732; 3.81%), and Tesla Model X (5,114; 3.40%).
-The table also distinguishes between Battery Electric Vehicles (BEV) and Plug-in Hybrid Electric Vehicles (PHEV) for each model.
-Technologies Used
-Tableau Desktop: For data visualization and dashboard creation.
-Microsoft Excel / CSV: Potentially for initial data cleaning and preparation.
+- Tesla Model Y is the most popular with 28,501 vehicles (18.95%).
+- Tesla Model 3 follows closely with 27,708 vehicles (18.42%).
+- Nissan LEAF has 13,187 vehicles (8.77%).
+- Other notable models include Tesla Model S (7,609; 5.06%), Chevrolet Bolt EV (5,732; 3.81%), and Tesla Model X (5,114; 3.40%).
+- The table also distinguishes between Battery Electric Vehicles (BEV) and Plug-in Hybrid Electric Vehicles (PHEV) for each model.
+
+## Technologies Used
+**Tableau Desktop**: For data visualization and dashboard creation.
+**Microsoft Excel / CSV**: Potentially for initial data cleaning and preparation.
